@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "homepage": "git remote add origin https://mostafayy.github.io/dach/",
+  "homepage": "https://mostafayy.github.io/dach/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
