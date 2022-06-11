@@ -1,5 +1,6 @@
 {
   "name": "test",
+  "homepage": "git remote add origin https://mostafayy.github.io/dach/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "antd": "^4.20.5",
     "axios": "^0.27.2",
     "chart.js": "^3.7.1",
+    "gh-pages": "^4.0.0",
     "html-react-parser": "^1.4.12",
     "millify": "^4.0.0",
     "moment": "^2.29.3",
@@ -22,6 +24,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
