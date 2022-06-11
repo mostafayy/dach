@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/static/css/main.aaff5214.css",
+    "main.js": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/static/js/main.444c9c28.js",
+    "static/media/cryptocurrency.png": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/index.html",
+    "main.aaff5214.css.map": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/static/css/main.aaff5214.css.map",
+    "main.444c9c28.js.map": "/git%20remote%20add%20origin%20https://mostafayy.github.io/dach/static/js/main.444c9c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaff5214.css",
+    "static/js/main.444c9c28.js"
+  ]
+}
